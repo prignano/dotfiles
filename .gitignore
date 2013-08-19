@@ -4,9 +4,11 @@
 # Folder view configuration files
 .DS_Store
 Desktop.ini
+node_modules
 
 # Thumbnail cache files
 ._*
+.DS_Store
 Thumbs.db
 
 # Files that might appear on external disks
